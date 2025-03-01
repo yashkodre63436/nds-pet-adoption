@@ -1,0 +1,142 @@
+[
+    {
+      "id": 1,
+      "type": "Dog",
+      "color": "Golden",
+      "weight": "12kg",
+      "image": "https://imgs.search.brave.com/D6qHO5lTEEl0suIzamiJC_aWgm4XDMU1fFkl-yTXrEA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAwLzQxLzIwLzY0/LzM2MF9GXzQxMjA2/NDEzX3pQcVJ3YWNr/djhvVXp2aVo2RWN1/TFM0M3p1SHc3Q3h3/LmpwZw"
+    },
+    {
+      "id": 2,
+      "type": "Cat",
+      "color": "Black",
+      "weight": "4kg",
+      "image": "https://imgs.search.brave.com/f7lrinLO61LhVYdt7IS775Xi8RLR818fWpcSaa89h2A/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAwLzUwLzQ0LzE2/LzM2MF9GXzUwNDQx/NjEyX0hNVUpNNUpy/b2hYVm1Qd01xUVRl/ZFF6Z3p4MVozV2RB/LmpwZw"
+    },
+    {
+      "id": 3,
+      "type": "Rabbit",
+      "color": "White",
+      "weight": "2kg",
+      "image": "https://imgs.search.brave.com/GMpaSYIAoJG6oWayI95tX-kvxA3pBwOyzfycUTqYgMk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNTI2/MjEzNTcxL3Bob3Rv/L2JhYnktYnVubnku/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PWlpaDZxOWpNeWNt/WUVBTVlZMGExZ1k4/TVpuQnNqT014YVI3/MndIaV9pNE09"
+    },
+    {
+      "id": 4,
+      "type": "Dog",
+      "color": "Brown",
+      "weight": "10kg",
+      "image": "https://imgs.search.brave.com/NP6Dnc5hz5XjHLiLwJOu36eWWt5HzYFOLsVpPiiJZmY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTU1/NDQ0NzYzL3Bob3Rv/L3BvcnRyYWl0LW9m/LWEtY2hvY29sYXRl/LWxhYnJhZG9yLmpw/Zz9zPTYxMng2MTIm/dz0wJms9MjAmYz1M/UG85SDAyTFZYT2NB/Y0tPemtVTm1qTkUy/VlloNWdmbUFHUFZp/bDJGR3h3PQ"
+    },
+    {
+      "id": 5,
+      "type": "Cat",
+      "color": "Grey",
+      "weight": "5kg",
+      "image": "https://imgs.search.brave.com/Z4IUinvtwroivo3Hscrws96yzRRDI9U3so1lcq8iU7M/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvYTAw/NDctMDAwMjI2L3Bo/b3RvL2dyYXktY2F0/LmpwZz9zPTYxMng2/MTImdz0wJms9MjAm/Yz11d3V3YVJuY2Mt/S2hfNTRnM180MHFR/aXJabnc0dUJRWllJ/SHVUUlFXRXdVPQ"
+    },
+    {
+      "id": 6,
+      "type": "Parrot",
+      "color": "Green",
+      "weight": "1.2kg",
+      "image": "https://imgs.search.brave.com/fG3aiF3IHRe1eFmvXp4HBHZck7X41_v2URR5BB6ts3I/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAxLzUyLzMyLzEx/LzM2MF9GXzE1MjMy/MTExNl91U000TWJC/NncyeGhlUElPY0xS/Z0lIR2JGUmlmeWta/ai5qcGc"
+    },
+    {
+      "id": 7,
+      "type": "Dog",
+      "color": "Black and White",
+      "weight": "14kg",
+      "image": "https://imgs.search.brave.com/Bm72neY7DhroGrr2pUDUmYXFJudP5JVg2XfXbxtMR3I/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNTM2/NTA1Nzc3L3Bob3Rv/L2JvcmRlci1jb2xs/aWUuanBnP3M9NjEy/eDYxMiZ3PTAmaz0y/MCZjPWgzLTlQQlVD/MTNLZm90Q2FPVFZL/bHdkMm1wZzRBMVV1/aHplbi05WmlSOW89"
+    },
+    {
+      "id": 8,
+      "type": "Cat",
+      "color": "Orange",
+      "weight": "3.5kg",
+      "image": "https://media.istockphoto.com/id/1073475928/photo/ginger-cat.jpg?s=612x612&w=0&k=20&c=_siHCNkTufNCg6CQuZ0GYRiaE2RYsxLoiE232d3ojco="
+    },
+    {
+      "id": 9,
+      "type": "Rabbit",
+      "color": "Brown",
+      "weight": "2.5kg",
+      "image": "https://media.istockphoto.com/id/120490629/photo/front-view-of-dwarf-rabbit-6-months-old-white-background.jpg?s=612x612&w=0&k=20&c=Re2nyUVbiwRb6lumJDHr-0FaqcFjhhQIWP-d-nlBPX4="
+    },
+    {
+      "id": 10,
+      "type": "Dog",
+      "color": "White",
+      "weight": "11kg",
+      "image": "https://media.istockphoto.com/id/1048322486/photo/west-highland-terrier-in-front-of-white-background.jpg?s=612x612&w=0&k=20&c=bSNBqfXdgIVl9Og-KcBX3StAKjRju1DNWE2LxnhfqF4="
+    },
+    {
+      "id": 11,
+      "type": "Parrot",
+      "color": "Blue",
+      "weight": "1kg",
+      "image": "https://media.istockphoto.com/id/1294831111/photo/beautiful-bird-flying-blue-and-gold-macaw-flying-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=WrMEdY3T6TKg9OG41zN9_wamr4k69P_F3ylXx-18j5Y="
+    },
+    {
+        "id": 12,
+        "type": "Dog",
+        "color": "Golden Brown",
+        "weight": "15kg",
+        "image": "https://media.istockphoto.com/id/138190715/photo/golden-retriever-puppy.jpg?s=612x612&w=0&k=20&c=ZsyWIaXEk7wV_kWJ9_ITCa9vlZ23UYYwWkaDN7DKSUU="
+      },
+      {
+        "id": 13,
+        "type": "Cat",
+        "color": "Black and White",
+        "weight": "4.2kg",
+        "image": "https://media.istockphoto.com/id/1264629769/photo/black-and-white-house-cat-on-white-background.jpg?s=612x612&w=0&k=20&c=HqdZe3D7fqHyLgltTU9hHPKe4wZJ2D-eRh0LwP2ZUmA="
+      },
+      {
+        "id": 14,
+        "type": "Rabbit",
+        "color": "Grey",
+        "weight": "2.1kg",
+        "image": "https://media.istockphoto.com/id/526213571/photo/baby-bunny.jpg?s=612x612&w=0&k=20&c=iih6q9jMycmYEAMYY0a1gY8MZnBsjOMxaR72wHi_i4M="
+      },
+      {
+        "id": 15,
+        "type": "Dog",
+        "color": "Black",
+        "weight": "9kg",
+        "image": "https://media.istockphoto.com/id/508855550/photo/close-up-of-a-labrador-in-front-of-a-white-background.jpg?s=612x612&w=0&k=20&c=Ss-9oUgMhgd-hOMoh8_xK310vORSCAtPf4bROOqavaM="
+      },
+      {
+        "id": 16,
+        "type": "Cat",
+        "color": "White",
+        "weight": "4.8kg",
+        "image": "https://media.istockphoto.com/id/514515260/photo/neva-masquerade-looking-at-the-camera-isolated-on-white.jpg?s=612x612&w=0&k=20&c=HCoV7nQfnLWgRI26Nlv7Kobfucw6E6NeONx1dMVusMs="
+      },
+      {
+        "id": 17,
+        "type": "Rabbit",
+        "color": "White and Black",
+        "weight": "2.3kg",
+        "image": "https://media.istockphoto.com/id/182685934/photo/rabbit-eared.jpg?s=612x612&w=0&k=20&c=fqxc63brhf9rhTT1tOq9si_uiMdXyKQoI3WvwAtPahQ="
+      },
+      {
+        "id": 18,
+        "type": "Dog",
+        "color": "Brown",
+        "weight": "12.5kg",
+        "image": "https://media.istockphoto.com/id/1425207162/photo/studio-shot-of-welsh-corgi-pembroke-catching-a-treat.jpg?s=612x612&w=0&k=20&c=f3dOX_gV5pj6YPsj2Uja-U7Xa3rue5xIyzU-u7jXIAY="
+      },
+      {
+        "id": 19,
+        "type": "Cat",
+        "color": "Grey and White",
+        "weight": "5.3kg",
+        "image": "https://media.istockphoto.com/id/623368750/photo/sacred-birma-cat-in-interior.jpg?s=612x612&w=0&k=20&c=KfNi_sRwTCtXTnnUvEYVBnRg9arrA3JBC7SppRtSRzs="
+      },
+      {
+        "id": 20,
+        "type": "Parrot",
+        "color": "Red and Green",
+        "weight": "1.5kg",
+        "image": "https://media.istockphoto.com/id/168663169/photo/green-winged-macaw-ara-chloropterus-in-front-of-white-background.jpg?s=612x612&w=0&k=20&c=sdACQL__chh03-na7KW3e7uGr-5arp2Tr3N6qoRnKS8="
+      }
+    ]
